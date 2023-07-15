@@ -8,4 +8,4 @@ With **NuGet** VSC extension you will install the following:
 - Microsoft.EntityFrameworkCore.Design
 - Microsoft.EntityFrameworkCore.Sqlite
 
-** Make sure you select the version that is compatible with your .Net version. **
+**Make sure you select the version that is compatible with your .Net version.**
