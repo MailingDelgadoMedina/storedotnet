@@ -9,3 +9,5 @@ With **NuGet** VSC extension you will install the following:
 - Microsoft.EntityFrameworkCore.Sqlite
 
 **Make sure you select the version that is compatible with your .Net version.**
+
+Remember before migration you need to stop your server
